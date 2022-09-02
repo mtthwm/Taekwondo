@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: dd02576d86da7da48ba0cd3cdb05ef9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3854103385934771555
+    second: spin kick_0
+  - first:
+      213: 4753970140491821720
+    second: spin kick_1
+  - first:
+      213: 8079806655049786744
+    second: spin kick_2
+  - first:
+      213: -4733507471512975180
+    second: spin kick_3
+  - first:
+      213: 3597160418217565122
+    second: spin kick_4
+  - first:
+      213: 7761910385210184734
+    second: spin kick_5
+  - first:
+      213: -3653501896657982621
+    second: spin kick_6
+  - first:
+      213: 7460612758771664241
+    second: spin kick_7
+  - first:
+      213: -5322996818657708087
+    second: spin kick_8
+  - first:
+      213: 4058447343645294003
+    second: spin kick_9
+  - first:
+      213: -8413953384290570772
+    second: spin kick_10
+  - first:
+      213: -171706749356279518
+    second: spin kick_11
+  - first:
+      213: -6736564478130908082
+    second: spin kick_12
+  - first:
+      213: 8025931953286317090
+    second: spin kick_13
+  - first:
+      213: -3277699542377010949
+    second: spin kick_14
+  - first:
+      213: 7852694883372937906
+    second: spin kick_15
+  - first:
+      213: 7194001446215158982
+    second: spin kick_16
+  - first:
+      213: 3427196674982868374
+    second: spin kick_17
+  - first:
+      213: -2526845032973111724
+    second: spin kick_18
+  - first:
+      213: -1642186886157343910
+    second: spin kick_19
+  - first:
+      213: -1258818963275887501
+    second: spin kick_20
+  - first:
+      213: -4932831634463737365
+    second: spin kick_21
+  - first:
+      213: -7436738831265285253
+    second: spin kick_22
+  - first:
+      213: 160845621082863158
+    second: spin kick_23
+  - first:
+      213: 8939207401391663854
+    second: spin kick_24
+  - first:
+      213: -5388623338966084501
+    second: spin kick_25
+  - first:
+      213: -3461201478960120277
+    second: spin kick_26
+  - first:
+      213: -8587284036188595491
+    second: spin kick_27
+  - first:
+      213: -8240671408638810852
+    second: spin kick_28
+  - first:
+      213: 8778602492146846716
+    second: spin kick_29
+  - first:
+      213: -2292651048742845249
+    second: spin kick_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spin kick_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 390
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4139bfda88ddbad4aabf66fe0af766b6
+      internalID: -3854103385934771555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_1
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 14
+        width: 392
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf4720d17222f242b8c42e5d590c577
+      internalID: 4753970140491821720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_2
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 14
+        width: 389
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca6687d4a3cdb44bba4136fa572c55c
+      internalID: 8079806655049786744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_3
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 19
+        width: 340
+        height: 931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a62f631715dfa44aec29f5bf550dae
+      internalID: -4733507471512975180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_4
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 11
+        width: 340
+        height: 939
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dffbceb9592ee42a3c6646ded45fbd
+      internalID: 3597160418217565122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_5
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 13
+        width: 315
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1770c490d4a755e46a5ae482063cce94
+      internalID: 7761910385210184734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_6
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 16
+        width: 318
+        height: 932
+      alignment: 9
+      pivot: {x: 0.5390479, y: 0.52456003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f656c32f66d1ea4fa3a8c084534aad8
+      internalID: -3653501896657982621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_7
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 11
+        width: 391
+        height: 939
+      alignment: 9
+      pivot: {x: 0.6151232, y: 0.5277761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398cebe32caf4644b8bef039390c387a
+      internalID: 7460612758771664241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_8
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 10
+        width: 312
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89414b9804d6b714a941862e764bb04e
+      internalID: -5322996818657708087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_9
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 15
+        width: 643
+        height: 933
+      alignment: 9
+      pivot: {x: 0.72, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c87448f12cdf34e9a1813ab42a6af1
+      internalID: 4058447343645294003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_10
+      rect:
+        serializedVersion: 2
+        x: 5101
+        y: 6
+        width: 633
+        height: 944
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddf4723a907add448a09eb92538d3a8
+      internalID: -8413953384290570772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_11
+      rect:
+        serializedVersion: 2
+        x: 5906
+        y: 16
+        width: 696
+        height: 934
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54860736e7622d34a9a0722b6ac26f24
+      internalID: -171706749356279518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_12
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 11
+        width: 700
+        height: 930
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c07342425198d4b97d67706175953c
+      internalID: -6736564478130908082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_13
+      rect:
+        serializedVersion: 2
+        x: 7658
+        y: 15
+        width: 522
+        height: 933
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9375f5f76b65a2a419de19cb29a44ccf
+      internalID: 8025931953286317090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_14
+      rect:
+        serializedVersion: 2
+        x: 8357
+        y: 11
+        width: 519
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391968681a258b947b0541982b143fa3
+      internalID: -3277699542377010949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_15
+      rect:
+        serializedVersion: 2
+        x: 8359
+        y: 15
+        width: 515
+        height: 934
+      alignment: 9
+      pivot: {x: 0.65, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceeeef0b87c9b245a627c4a96003024
+      internalID: 7852694883372937906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_16
+      rect:
+        serializedVersion: 2
+        x: 9058
+        y: 18
+        width: 266
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d1516e77e6b0847bc600af2786bd1c
+      internalID: 7194001446215158982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_17
+      rect:
+        serializedVersion: 2
+        x: 9498
+        y: 16
+        width: 271
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c736e57531988448ad4ec8202f86af4
+      internalID: 3427196674982868374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_18
+      rect:
+        serializedVersion: 2
+        x: 9940
+        y: 11
+        width: 220
+        height: 935
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29dd616c8f2942439ab6c069b57e9c1
+      internalID: -2526845032973111724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_19
+      rect:
+        serializedVersion: 2
+        x: 10334
+        y: 16
+        width: 351
+        height: 934
+      alignment: 9
+      pivot: {x: 0.3, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cac3c95bcf2544d9f408f26578fb81
+      internalID: -1642186886157343910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_20
+      rect:
+        serializedVersion: 2
+        x: 10861
+        y: 16
+        width: 348
+        height: 934
+      alignment: 9
+      pivot: {x: 0.3, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733fcb47608fa8849817e54dd825a90d
+      internalID: -1258818963275887501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_21
+      rect:
+        serializedVersion: 2
+        x: 11383
+        y: 13
+        width: 525
+        height: 933
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0101dc18464546a499d7bfaabc281ca3
+      internalID: -4932831634463737365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_22
+      rect:
+        serializedVersion: 2
+        x: 12084
+        y: 16
+        width: 527
+        height: 934
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853b45cd9ad0d0743857e14361bbb91a
+      internalID: -7436738831265285253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_23
+      rect:
+        serializedVersion: 2
+        x: 12785
+        y: 18
+        width: 461
+        height: 930
+      alignment: 9
+      pivot: {x: 0.38, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decc1e4b7acf260479a700e2df9f0390
+      internalID: 160845621082863158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_24
+      rect:
+        serializedVersion: 2
+        x: 13423
+        y: 16
+        width: 466
+        height: 932
+      alignment: 9
+      pivot: {x: 0.38, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb84a58153b77c5489ae3a463dc7dcc2
+      internalID: 8939207401391663854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_25
+      rect:
+        serializedVersion: 2
+        x: 14064
+        y: 18
+        width: 357
+        height: 931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c74c7d4a09ef342b24e3456be14bff
+      internalID: -5388623338966084501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_26
+      rect:
+        serializedVersion: 2
+        x: 14597
+        y: 18
+        width: 431
+        height: 932
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dfc9df950ecaf4ba9c47e7a0661803
+      internalID: -3461201478960120277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_27
+      rect:
+        serializedVersion: 2
+        x: 15200
+        y: 15
+        width: 437
+        height: 934
+      alignment: 9
+      pivot: {x: 0.6, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1881c9cba8686364ea0b5b877650b8aa
+      internalID: -8587284036188595491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_28
+      rect:
+        serializedVersion: 2
+        x: 15813
+        y: 11
+        width: 389
+        height: 939
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74553062afc73d84b82536b0f9d32a04
+      internalID: -8240671408638810852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_29
+      rect:
+        serializedVersion: 2
+        x: 16379
+        y: 8
+        width: 392
+        height: 942
+      alignment: 9
+      pivot: {x: 0.55, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c3c169be0188340a2531719c572659
+      internalID: 8778602492146846716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin kick_30
+      rect:
+        serializedVersion: 2
+        x: 16951
+        y: 11
+        width: 397
+        height: 939
+      alignment: 9
+      pivot: {x: 0.53, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89632091545f7634a80448e7905a4b3e
+      internalID: -2292651048742845249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

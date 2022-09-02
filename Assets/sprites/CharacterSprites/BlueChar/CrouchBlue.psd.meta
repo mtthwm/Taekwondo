@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 0d9a3f6f621890344af6216b5ee011b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4432126177025921795
+    second: CrouchBlue_0
+  - first:
+      213: -5274669454940848117
+    second: CrouchBlue_1
+  - first:
+      213: 5991117205776303875
+    second: CrouchBlue_2
+  - first:
+      213: -8410134496382739257
+    second: CrouchBlue_3
+  - first:
+      213: 7196831459414732905
+    second: CrouchBlue_4
+  - first:
+      213: 8131298086363858675
+    second: CrouchBlue_5
+  - first:
+      213: -2166635746228504287
+    second: CrouchBlue_6
+  - first:
+      213: -734682116457134513
+    second: CrouchBlue_7
+  - first:
+      213: -2168641917831728356
+    second: CrouchBlue_8
+  - first:
+      213: -6806038689642854286
+    second: CrouchBlue_9
+  - first:
+      213: 3083201163629738255
+    second: CrouchBlue_10
+  - first:
+      213: -5148561411470741482
+    second: CrouchBlue_11
+  - first:
+      213: -2498007385376506089
+    second: CrouchBlue_12
+  - first:
+      213: 6400294978038609513
+    second: CrouchBlue_13
+  - first:
+      213: 4587347909756703135
+    second: CrouchBlue_14
+  - first:
+      213: -3994144541755590562
+    second: CrouchBlue_15
+  - first:
+      213: 6156675762790185792
+    second: CrouchBlue_16
+  - first:
+      213: -5781231364538506292
+    second: CrouchBlue_17
+  - first:
+      213: -1423283830503793885
+    second: CrouchBlue_18
+  - first:
+      213: 9080826248738066094
+    second: CrouchBlue_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrouchBlue_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 384
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df8baca876a606438b23db686288194
+      internalID: 4432126177025921795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_1
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0
+        width: 393
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63c7aaa415dc0d4998c8139a74fdbe9
+      internalID: -5274669454940848117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_2
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 0
+        width: 396
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a863d00ea00a74b94c9f88b2010bfa
+      internalID: 5991117205776303875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_3
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 0
+        width: 415
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6717fb2040be24ab6fe68f8666212b
+      internalID: -8410134496382739257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_4
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 0
+        width: 421
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421ec735e9d8f8e4a9d373e4cfad3694
+      internalID: 7196831459414732905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_5
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 0
+        width: 458
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3bdad82f3217d419af628aa39ed413
+      internalID: 8131298086363858675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_6
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 0
+        width: 473
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c655c6a72963d94d93ea87e13005d02
+      internalID: -2166635746228504287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_7
+      rect:
+        serializedVersion: 2
+        x: 3890
+        y: 0
+        width: 508
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f5883c03cc15042ad0582587fbec06
+      internalID: -734682116457134513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_8
+      rect:
+        serializedVersion: 2
+        x: 4534
+        y: 0
+        width: 486
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6d8e7ef7d51eb4d8b130d41e262e2a
+      internalID: -2168641917831728356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_9
+      rect:
+        serializedVersion: 2
+        x: 5156
+        y: 0
+        width: 489
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3245fc2808cc36044b632917d1bc407a
+      internalID: -6806038689642854286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_10
+      rect:
+        serializedVersion: 2
+        x: 5766
+        y: 0
+        width: 501
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056cf67870cf5df43956d72ddd97996d
+      internalID: 3083201163629738255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_11
+      rect:
+        serializedVersion: 2
+        x: 6373
+        y: 0
+        width: 520
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fbb3c3e257dac4eaef3cacacdb1c2d
+      internalID: -5148561411470741482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_12
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 0
+        width: 507
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcf5feec12d0f54980141225aaa290c
+      internalID: -2498007385376506089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_13
+      rect:
+        serializedVersion: 2
+        x: 7654
+        y: 0
+        width: 477
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de82ef22662e784d8362a6d5d0c8ffc
+      internalID: 6400294978038609513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_14
+      rect:
+        serializedVersion: 2
+        x: 8254
+        y: 0
+        width: 486
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80bfbbdd68fdf344a231505615523fa
+      internalID: 4587347909756703135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_15
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 0
+        width: 418
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f67fddd0975fa44d830502cbfaa428d
+      internalID: -3994144541755590562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_16
+      rect:
+        serializedVersion: 2
+        x: 9437
+        y: 0
+        width: 408
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54bcce16ec709445b9f184231f31f67
+      internalID: 6156675762790185792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_17
+      rect:
+        serializedVersion: 2
+        x: 9982
+        y: 0
+        width: 386
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8ac2d4fab768349b7bf619e9fe02d3
+      internalID: -5781231364538506292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_18
+      rect:
+        serializedVersion: 2
+        x: 10508
+        y: 0
+        width: 393
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1e83765255fcf42a9947dca6e55bb8
+      internalID: -1423283830503793885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchBlue_19
+      rect:
+        serializedVersion: 2
+        x: 11034
+        y: 0
+        width: 390
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca34e44aaee0e0146bafb0733f83fa7c
+      internalID: 9080826248738066094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

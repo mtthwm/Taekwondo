@@ -1,0 +1,991 @@
+fileFormatVersion: 2
+guid: 2039937c17484894ab909572f5298486
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5246562998965371258
+    second: Block blue_0
+  - first:
+      213: -6426549975576634012
+    second: Block blue_1
+  - first:
+      213: -5550993605597653291
+    second: Block blue_2
+  - first:
+      213: 3081771099301009903
+    second: Block blue_3
+  - first:
+      213: 3792152549754901407
+    second: Block blue_4
+  - first:
+      213: -1626724986961742558
+    second: Block blue_5
+  - first:
+      213: 5937162761195155076
+    second: Block blue_6
+  - first:
+      213: 8994266418822223072
+    second: Block blue_7
+  - first:
+      213: -731571862185856126
+    second: Block blue_8
+  - first:
+      213: -3636929153285174688
+    second: Block blue_9
+  - first:
+      213: -1794758253020146775
+    second: Block blue_10
+  - first:
+      213: 7005374636968197309
+    second: Block blue_11
+  - first:
+      213: 4541440099045249054
+    second: Block blue_12
+  - first:
+      213: -6718844964671985034
+    second: Block blue_13
+  - first:
+      213: -9214477402523391099
+    second: Block blue_14
+  - first:
+      213: -3437662276831154624
+    second: Block blue_15
+  - first:
+      213: -1291314421636732653
+    second: Block blue_16
+  - first:
+      213: -833970364516009658
+    second: Block blue_17
+  - first:
+      213: -1435040447364527761
+    second: Block blue_18
+  - first:
+      213: -2422600724551005962
+    second: Block blue_19
+  - first:
+      213: -7062028202688654918
+    second: Block blue_20
+  - first:
+      213: -3944931301623983870
+    second: Block blue_21
+  - first:
+      213: 4524243760092620624
+    second: Block blue_22
+  - first:
+      213: 3415429787295184631
+    second: Block blue_23
+  - first:
+      213: -7887285801546572026
+    second: Block blue_24
+  - first:
+      213: 4306595303193225767
+    second: Block blue_25
+  - first:
+      213: 668667557768240185
+    second: Block blue_26
+  - first:
+      213: 4026189699260803998
+    second: Block blue_27
+  - first:
+      213: 6626525233935220074
+    second: Block blue_28
+  - first:
+      213: 1550491368424607107
+    second: Block blue_29
+  - first:
+      213: 15534948901695792
+    second: Block blue_30
+  - first:
+      213: -6606667834990521077
+    second: Block blue_31
+  - first:
+      213: 8865346608757571479
+    second: Block blue_32
+  - first:
+      213: 6234028425769656370
+    second: Block blue_33
+  - first:
+      213: 7566995755255923306
+    second: Block blue_34
+  - first:
+      213: -4129505745636805949
+    second: Block blue_35
+  - first:
+      213: 1241772216478695490
+    second: Block blue_36
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Block blue_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 371
+        height: 939
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fa72f06394e4d49a90abc2d98375f4
+      internalID: -5246562998965371258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_1
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 372
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3cbd4ed7eb19e4ab941340912feb78
+      internalID: -6426549975576634012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_2
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 386
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbad34e10fc5ae44b968846c10d88334
+      internalID: -5550993605597653291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_3
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 0
+        width: 376
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270374d0f72c3744a90d0885464447b8
+      internalID: 3081771099301009903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_4
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 0
+        width: 390
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e02ce1d41d35e14288d4f863ffbd784
+      internalID: 3792152549754901407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_5
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 0
+        width: 409
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73a31f952719844688e01d9b712879b
+      internalID: -1626724986961742558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_6
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 0
+        width: 395
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91741dfe9ac050947bd40863469c18a8
+      internalID: 5937162761195155076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_7
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 0
+        width: 422
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec04427543ee2f4fa919ad8ed87143f
+      internalID: 8994266418822223072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_8
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 0
+        width: 409
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608f0d396d4248d439f1ad4ae76ff0c8
+      internalID: -731571862185856126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_9
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 0
+        width: 413
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b762c4d08c9f24ea166b0111408498
+      internalID: -3636929153285174688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_10
+      rect:
+        serializedVersion: 2
+        x: 5443
+        y: 0
+        width: 399
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957dc067fd20cb945b58fbe59d4b5939
+      internalID: -1794758253020146775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_11
+      rect:
+        serializedVersion: 2
+        x: 5967
+        y: 0
+        width: 418
+        height: 948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7f190979e8b1e499f126226d4e1710
+      internalID: 7005374636968197309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_12
+      rect:
+        serializedVersion: 2
+        x: 6529
+        y: 0
+        width: 427
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555e4a21e3bbf354ca761dfe1955edec
+      internalID: 4541440099045249054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_13
+      rect:
+        serializedVersion: 2
+        x: 7091
+        y: 0
+        width: 399
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ddf6c709749a34fb5864fb724f48e7
+      internalID: -6718844964671985034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_14
+      rect:
+        serializedVersion: 2
+        x: 7643
+        y: 0
+        width: 409
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a049bd04d84e799479cb42f28fbb6558
+      internalID: -9214477402523391099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_15
+      rect:
+        serializedVersion: 2
+        x: 8191
+        y: 0
+        width: 404
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1200f9e486d637342b4fce66a4684773
+      internalID: -3437662276831154624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_16
+      rect:
+        serializedVersion: 2
+        x: 8762
+        y: 0
+        width: 390
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c290a80594b7454ab3a140102f833d9
+      internalID: -1291314421636732653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_17
+      rect:
+        serializedVersion: 2
+        x: 9301
+        y: 0
+        width: 408
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afddd7f0df94daf4f890b8e2aa47f8a4
+      internalID: -833970364516009658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_18
+      rect:
+        serializedVersion: 2
+        x: 9835
+        y: 0
+        width: 431
+        height: 948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2017c653848d8f246bcd5a2793a81dff
+      internalID: -1435040447364527761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_19
+      rect:
+        serializedVersion: 2
+        x: 10410
+        y: 0
+        width: 395
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3193cb6aec77d064baabc63eee0c94d7
+      internalID: -2422600724551005962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_20
+      rect:
+        serializedVersion: 2
+        x: 10977
+        y: 0
+        width: 404
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b5eca066da8f94ba9438fb4ca245b5
+      internalID: -7062028202688654918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_21
+      rect:
+        serializedVersion: 2
+        x: 11511
+        y: 0
+        width: 408
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34446d63df7a91b4bbc5ed94f3648547
+      internalID: -3944931301623983870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_22
+      rect:
+        serializedVersion: 2
+        x: 12049
+        y: 0
+        width: 432
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242ba69504e2e9d4da2864f41f56fde3
+      internalID: 4524243760092620624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_23
+      rect:
+        serializedVersion: 2
+        x: 12592
+        y: 0
+        width: 465
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427a24e91a717f9429c1d7a3b1b5ae4c
+      internalID: 3415429787295184631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_24
+      rect:
+        serializedVersion: 2
+        x: 13173
+        y: 0
+        width: 436
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b582b4587385841a20898c0b5b9f3c
+      internalID: -7887285801546572026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_25
+      rect:
+        serializedVersion: 2
+        x: 13725
+        y: 0
+        width: 409
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b9093d87e70d8438ea55aa198ea278
+      internalID: 4306595303193225767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_26
+      rect:
+        serializedVersion: 2
+        x: 14259
+        y: 0
+        width: 432
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e31789033b6184f9c3472464c295cb
+      internalID: 668667557768240185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_27
+      rect:
+        serializedVersion: 2
+        x: 14821
+        y: 0
+        width: 436
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e000c4537e64d4499097006a1567f5e
+      internalID: 4026189699260803998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_28
+      rect:
+        serializedVersion: 2
+        x: 15378
+        y: 0
+        width: 418
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090b07c034cc8114594368d3204d72df
+      internalID: 6626525233935220074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_29
+      rect:
+        serializedVersion: 2
+        x: 15931
+        y: 0
+        width: 408
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad003408e1c77be429a843f584762ee1
+      internalID: 1550491368424607107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_30
+      rect:
+        serializedVersion: 2
+        x: 16483
+        y: 0
+        width: 409
+        height: 948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb0d32d10aa8dd4f8401030137652ca
+      internalID: 15534948901695792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_31
+      rect:
+        serializedVersion: 2
+        x: 17022
+        y: 0
+        width: 422
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183872e8c625ad540b6ad0be122eb8ec
+      internalID: -6606667834990521077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_32
+      rect:
+        serializedVersion: 2
+        x: 17574
+        y: 0
+        width: 409
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea219134487f174fa62d500ebb3a7ff
+      internalID: 8865346608757571479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_33
+      rect:
+        serializedVersion: 2
+        x: 18117
+        y: 0
+        width: 390
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266e71b5f3c18204fa788fdc07b36b08
+      internalID: 6234028425769656370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_34
+      rect:
+        serializedVersion: 2
+        x: 18623
+        y: 0
+        width: 423
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9312a649d98cec146bdcf08867379c43
+      internalID: 7566995755255923306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_35
+      rect:
+        serializedVersion: 2
+        x: 19176
+        y: 0
+        width: 395
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df58b352aea829c419121f0815cafcc6
+      internalID: -4129505745636805949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block blue_36
+      rect:
+        serializedVersion: 2
+        x: 19691
+        y: 0
+        width: 423
+        height: 948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e57d2aefafc9744a185edbde5b0a92
+      internalID: 1241772216478695490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

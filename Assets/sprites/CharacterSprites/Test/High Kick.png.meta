@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 20ef50d15e772f74e8a0e7521ef410d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4207275605007407738
+    second: High Kick_0
+  - first:
+      213: 7973739489935843345
+    second: High Kick_1
+  - first:
+      213: 5126331665216781366
+    second: High Kick_2
+  - first:
+      213: 5151638409459812184
+    second: High Kick_3
+  - first:
+      213: -1753087396111854695
+    second: High Kick_4
+  - first:
+      213: -4588704562949143201
+    second: High Kick_5
+  - first:
+      213: 6792211487463384992
+    second: High Kick_6
+  - first:
+      213: -655942655871213222
+    second: High Kick_7
+  - first:
+      213: 2414862613532247945
+    second: High Kick_8
+  - first:
+      213: -8691326922822239248
+    second: High Kick_9
+  - first:
+      213: -2326399152850235421
+    second: High Kick_10
+  - first:
+      213: -8179657913313297584
+    second: High Kick_11
+  - first:
+      213: 4715756194743939580
+    second: High Kick_12
+  - first:
+      213: -7645566221901809457
+    second: High Kick_13
+  - first:
+      213: -6666830527379611101
+    second: High Kick_14
+  - first:
+      213: -6432854534211837562
+    second: High Kick_15
+  - first:
+      213: -2283162087579716425
+    second: High Kick_16
+  - first:
+      213: 7232586242439655030
+    second: High Kick_17
+  - first:
+      213: -4351751480088208027
+    second: High Kick_18
+  - first:
+      213: 4011769476969765718
+    second: High Kick_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: High Kick_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 389
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4015e379558dd4cb860dcdde76abb7
+      internalID: -4207275605007407738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_1
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 394
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16565bbfbc51104893b61e42eb2889f
+      internalID: 7973739489935843345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_2
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 0
+        width: 389
+        height: 950
+      alignment: 9
+      pivot: {x: 0.5270158, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89c9103a4d212b4b99d87de6b0d3d0d
+      internalID: 5126331665216781366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_3
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 0
+        width: 347
+        height: 946
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd8021b97895e94a90dfab8fcf892a6
+      internalID: 5151638409459812184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_4
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 0
+        width: 341
+        height: 946
+      alignment: 9
+      pivot: {x: 0.55, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23825b476f9400478b67de1fc4ca101
+      internalID: -1753087396111854695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_5
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 0
+        width: 304
+        height: 950
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cdbbb5e68dc6144bde7bebb2c5a458
+      internalID: -4588704562949143201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_6
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 0
+        width: 315
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed80d6ca15070a4d99152f20c402d0a
+      internalID: 6792211487463384992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_7
+      rect:
+        serializedVersion: 2
+        x: 3522
+        y: 0
+        width: 395
+        height: 950
+      alignment: 9
+      pivot: {x: 0.6, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e1ad81235534a408b472f90d5dc5d7
+      internalID: -655942655871213222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_8
+      rect:
+        serializedVersion: 2
+        x: 4064
+        y: 0
+        width: 641
+        height: 950
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4382aa884928943a8690ebc7d791c2
+      internalID: 2414862613532247945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_9
+      rect:
+        serializedVersion: 2
+        x: 4941
+        y: 0
+        width: 641
+        height: 950
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0945691dffcf224cb378ffad373b36b
+      internalID: -8691326922822239248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_10
+      rect:
+        serializedVersion: 2
+        x: 5729
+        y: 0
+        width: 657
+        height: 950
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafd0057f8a6d4e46b41cef3a7ec54d2
+      internalID: -2326399152850235421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_11
+      rect:
+        serializedVersion: 2
+        x: 6533
+        y: 0
+        width: 652
+        height: 950
+      alignment: 9
+      pivot: {x: 0.7, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff4670a68d6cf149b78dbb64633280b
+      internalID: -8179657913313297584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_12
+      rect:
+        serializedVersion: 2
+        x: 7337
+        y: 0
+        width: 673
+        height: 950
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991d07433da6c7046b1f1fb8e95076d1
+      internalID: 4715756194743939580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_13
+      rect:
+        serializedVersion: 2
+        x: 8152
+        y: 0
+        width: 688
+        height: 950
+      alignment: 9
+      pivot: {x: 0.65, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ec48207215bbc4982ac98efc606c0e
+      internalID: -7645566221901809457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_14
+      rect:
+        serializedVersion: 2
+        x: 8977
+        y: 0
+        width: 683
+        height: 950
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5110623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d0472a47c79ff4c85af06ff88e1ef1
+      internalID: -6666830527379611101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_15
+      rect:
+        serializedVersion: 2
+        x: 9802
+        y: 0
+        width: 672
+        height: 950
+      alignment: 9
+      pivot: {x: 0.63, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baded58ba4b4b1742ad882a452b1d214
+      internalID: -6432854534211837562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_16
+      rect:
+        serializedVersion: 2
+        x: 10632
+        y: 0
+        width: 667
+        height: 950
+      alignment: 9
+      pivot: {x: 0.62, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d46ea876dee24b4ca85c5deac2ed7dd
+      internalID: -2283162087579716425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_17
+      rect:
+        serializedVersion: 2
+        x: 11457
+        y: 0
+        width: 384
+        height: 950
+      alignment: 9
+      pivot: {x: 0.58, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e9e084415fb7040a80ca36f8122175
+      internalID: 7232586242439655030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_18
+      rect:
+        serializedVersion: 2
+        x: 11988
+        y: 0
+        width: 336
+        height: 950
+      alignment: 9
+      pivot: {x: 0.55, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32252050c8eb81241931600c2760d1f5
+      internalID: -4351751480088208027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Kick_19
+      rect:
+        serializedVersion: 2
+        x: 12471
+        y: 0
+        width: 384
+        height: 950
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55340d77e2a53444daa71645df5cdc33
+      internalID: 4011769476969765718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

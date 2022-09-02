@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: bb53865ed60e5b64fb5441a20d809749
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3521156022550223548
+    second: JumpRed_0
+  - first:
+      213: 3090737986660874544
+    second: JumpRed_1
+  - first:
+      213: 7776632322810102667
+    second: JumpRed_2
+  - first:
+      213: 5341760344307609910
+    second: JumpRed_3
+  - first:
+      213: -2801308328697575019
+    second: JumpRed_4
+  - first:
+      213: -9191427886709812046
+    second: JumpRed_5
+  - first:
+      213: -2317310896357031718
+    second: JumpRed_6
+  - first:
+      213: 2061560729136928355
+    second: JumpRed_7
+  - first:
+      213: 4729390985722450695
+    second: JumpRed_8
+  - first:
+      213: -5351913338217558322
+    second: JumpRed_9
+  - first:
+      213: 3015941832531179450
+    second: JumpRed_10
+  - first:
+      213: -3620645072824337300
+    second: JumpRed_11
+  - first:
+      213: -3331051964123937005
+    second: JumpRed_12
+  - first:
+      213: 5428252007061900221
+    second: JumpRed_13
+  - first:
+      213: 1593929190964675107
+    second: JumpRed_14
+  - first:
+      213: 8286663692093238978
+    second: JumpRed_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JumpRed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 389
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d7c1426856f374c8e8c38b5a735684
+      internalID: 3521156022550223548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRed_1
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 0
+        width: 414
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba1ebba22a08f141b7abb3a02ca2118
+      internalID: 3090737986660874544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRed_2
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 0
+        width: 467
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3d0e86646ef3e49995e8708d6a0a34
+      internalID: 7776632322810102667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRed_3
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 0
+        width: 461
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd0803e2cd7dc149b44fdbf6f7518dc
+      internalID: 5341760344307609910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRed_4
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 0
+        width: 393
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb10c0889779f8b4f9ea104d025ebb8f
+      internalID: -2801308328697575019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRed_5
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 0
+        width: 404
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed869ae7fa0b7f4db997fdc20ff7ec1
+      internalID: -9191427886709812046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRed_6
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 0
+        width: 395
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0463d417fb195d14696f24eedce84f36
+      internalID: -2317310896357031718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRed_7
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 0
+        width: 323
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbfc23b44bd5c74e84e7363315591d2
+      internalID: 2061560729136928355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRed_8
+      rect:
+        serializedVersion: 2
+        x: 4291
+        y: 0
+        width: 323
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f6de584efc33e4982a2632e629eaef
+      internalID: 4729390985722450695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRed_9
+      rect:
+        serializedVersion: 2
+        x: 4775
+        y: 0
+        width: 334
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbafe6bba91edfd43b34a5fd3ee20d3e
+      internalID: -5351913338217558322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRed_10
+      rect:
+        serializedVersion: 2
+        x: 5286
+        y: 0
+        width: 323
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84dfcb9edbbe0840949739e8f17f300
+      internalID: 3015941832531179450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRed_11
+      rect:
+        serializedVersion: 2
+        x: 5777
+        y: 0
+        width: 407
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe834a51bedb20f4a8cc614e073abe88
+      internalID: -3620645072824337300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRed_12
+      rect:
+        serializedVersion: 2
+        x: 6307
+        y: 0
+        width: 470
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf540ff6f6df8ea40b7bbddd24cd384d
+      internalID: -3331051964123937005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRed_13
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 0
+        width: 409
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b55c09826155a4daf88361c6747f4c
+      internalID: 5428252007061900221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRed_14
+      rect:
+        serializedVersion: 2
+        x: 7435
+        y: 0
+        width: 411
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0637e5b02ab5cd0479f1cd7b6dbe2cef
+      internalID: 1593929190964675107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRed_15
+      rect:
+        serializedVersion: 2
+        x: 7972
+        y: 0
+        width: 381
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656bda9911a38074a84e25e3fdf07e03
+      internalID: 8286663692093238978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

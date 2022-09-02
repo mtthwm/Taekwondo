@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 669668929abc9cd4fb31402a0cd94453
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4374013269856511654
+    second: Normal Kick_0
+  - first:
+      213: -5255470417247054040
+    second: Normal Kick_1
+  - first:
+      213: 3658139059148540651
+    second: Normal Kick_2
+  - first:
+      213: -75194905200083294
+    second: Normal Kick_3
+  - first:
+      213: 3120047664738674121
+    second: Normal Kick_4
+  - first:
+      213: 1572223873451670542
+    second: Normal Kick_5
+  - first:
+      213: 7238377193330585744
+    second: Normal Kick_6
+  - first:
+      213: 8509288532641156880
+    second: Normal Kick_7
+  - first:
+      213: 8623386806500088600
+    second: Normal Kick_8
+  - first:
+      213: -7397369529854177413
+    second: Normal Kick_9
+  - first:
+      213: -1011360033732069992
+    second: Normal Kick_10
+  - first:
+      213: -7453213125012312948
+    second: Normal Kick_11
+  - first:
+      213: 5447469821892227145
+    second: Normal Kick_12
+  - first:
+      213: 7884168910615834948
+    second: Normal Kick_13
+  - first:
+      213: 449846581999732639
+    second: Normal Kick_14
+  - first:
+      213: 7184964743569639213
+    second: Normal Kick_15
+  - first:
+      213: 8288503511695624496
+    second: Normal Kick_16
+  - first:
+      213: 3219161841167504603
+    second: Normal Kick_17
+  - first:
+      213: -2785075463383406148
+    second: Normal Kick_18
+  - first:
+      213: -8284304406273595971
+    second: Normal Kick_19
+  - first:
+      213: 7295741655784488494
+    second: Normal Kick_20
+  - first:
+      213: -8445579015527628076
+    second: Normal Kick_21
+  - first:
+      213: 3904571689819838886
+    second: Normal Kick_22
+  - first:
+      213: 4102990212139233390
+    second: Normal Kick_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Normal Kick_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 398
+        height: 950
+      alignment: 9
+      pivot: {x: 0.528222, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fc17f1551db6246b3d50b2c7b2e97e
+      internalID: -4374013269856511654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_1
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 399
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239319b100c76574fa742bf186c04c1f
+      internalID: -5255470417247054040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_2
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 0
+        width: 404
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc7b804bc9f1734eb84d04a652cc683
+      internalID: 3658139059148540651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_3
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 0
+        width: 337
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362c549bcaaf5914e9d8d0412e51a674
+      internalID: -75194905200083294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_4
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 0
+        width: 353
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a2d9ec22d985446aa5313d1ca59ce0
+      internalID: 3120047664738674121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_5
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 0
+        width: 303
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f7aae979298c14e9a61558af6de3de
+      internalID: 1572223873451670542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 326
+        height: 950
+      alignment: 9
+      pivot: {x: 0.56890833, y: 0.49408844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cdd09b087fef64b87a4ee676aac4d3
+      internalID: 7238377193330585744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_7
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 0
+        width: 393
+        height: 943
+      alignment: 9
+      pivot: {x: 0.6143206, y: 0.5059556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4442cf42d02364c4f9079834a92571db
+      internalID: 8509288532641156880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_8
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 0
+        width: 652
+        height: 949
+      alignment: 9
+      pivot: {x: 0.73256344, y: 0.4940823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d5e4e9ed507cd4a88064f18f7e405b
+      internalID: 8623386806500088600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_9
+      rect:
+        serializedVersion: 2
+        x: 4886
+        y: 0
+        width: 651
+        height: 950
+      alignment: 9
+      pivot: {x: 0.7415477, y: 0.4878179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7664e43e584164fb80bba14254402f
+      internalID: -7397369529854177413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_10
+      rect:
+        serializedVersion: 2
+        x: 5683
+        y: 0
+        width: 674
+        height: 950
+      alignment: 9
+      pivot: {x: 0.6916431, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5781a2ad009db744a384524ffbaaf60
+      internalID: -1011360033732069992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_11
+      rect:
+        serializedVersion: 2
+        x: 6503
+        y: 0
+        width: 669
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33267131ba7aae4096f817bfb583461
+      internalID: -7453213125012312948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_12
+      rect:
+        serializedVersion: 2
+        x: 7318
+        y: 0
+        width: 735
+        height: 943
+      alignment: 9
+      pivot: {x: 0.67573875, y: 0.511911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf548d994bfce1489ecb14bbee4c94c
+      internalID: 5447469821892227145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_13
+      rect:
+        serializedVersion: 2
+        x: 8194
+        y: 0
+        width: 719
+        height: 950
+      alignment: 9
+      pivot: {x: 0.6562174, y: 0.4881769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cd421f7e3a80646b4c4484035127be
+      internalID: 7884168910615834948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_14
+      rect:
+        serializedVersion: 2
+        x: 9059
+        y: 0
+        width: 673
+        height: 949
+      alignment: 9
+      pivot: {x: 0.6835836, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab7c674805a6cb459d763ecada564ac
+      internalID: 449846581999732639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_15
+      rect:
+        serializedVersion: 2
+        x: 9867
+        y: 0
+        width: 674
+        height: 950
+      alignment: 9
+      pivot: {x: 0.71369773, y: 0.5118232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fe02968faad72448545f906f968750
+      internalID: 7184964743569639213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_16
+      rect:
+        serializedVersion: 2
+        x: 10704
+        y: 0
+        width: 646
+        height: 950
+      alignment: 9
+      pivot: {x: 0.7347242, y: 0.50591165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452b3d05b22ed7240ad113011a63933c
+      internalID: 8288503511695624496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_17
+      rect:
+        serializedVersion: 2
+        x: 11490
+        y: 0
+        width: 399
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee35467be6bbe724ca2f05b0faf1379c
+      internalID: 3219161841167504603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_18
+      rect:
+        serializedVersion: 2
+        x: 12029
+        y: 0
+        width: 399
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3e8dc25a1beee4c8210695056e793a
+      internalID: -2785075463383406148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_19
+      rect:
+        serializedVersion: 2
+        x: 12569
+        y: 0
+        width: 314
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0602f1e04bf972b4ebe7c623da05de20
+      internalID: -8284304406273595971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_20
+      rect:
+        serializedVersion: 2
+        x: 13023
+        y: 1
+        width: 321
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02806414825cc3141b9ff78761255d8b
+      internalID: 7295741655784488494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_21
+      rect:
+        serializedVersion: 2
+        x: 13495
+        y: 0
+        width: 382
+        height: 950
+      alignment: 9
+      pivot: {x: 0.55880594, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dba75b104e3d974fbcb4c54be5e15fd
+      internalID: -8445579015527628076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_22
+      rect:
+        serializedVersion: 2
+        x: 14013
+        y: 0
+        width: 388
+        height: 949
+      alignment: 9
+      pivot: {x: 0.57237387, y: 0.50591785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c9660b21724b74b907c8ecca7bab2c
+      internalID: 3904571689819838886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Kick_23
+      rect:
+        serializedVersion: 2
+        x: 14525
+        y: 0
+        width: 393
+        height: 950
+      alignment: 9
+      pivot: {x: 0.6429036, y: 0.5059118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c682c5343e7f24a88ca4575fb98831
+      internalID: 4102990212139233390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

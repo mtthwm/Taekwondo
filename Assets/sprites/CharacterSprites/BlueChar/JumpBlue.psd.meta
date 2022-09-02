@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: ec3880ac9b0343e408f289f343d43ab0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3361639565131478548
+    second: JumpBlue_0
+  - first:
+      213: 2134846756596840574
+    second: JumpBlue_1
+  - first:
+      213: -5710160148187321215
+    second: JumpBlue_2
+  - first:
+      213: 5449651675103730291
+    second: JumpBlue_3
+  - first:
+      213: -3799704144942673456
+    second: JumpBlue_4
+  - first:
+      213: -7070710965020056204
+    second: JumpBlue_5
+  - first:
+      213: -2150220538180255693
+    second: JumpBlue_6
+  - first:
+      213: -3313996200654844868
+    second: JumpBlue_7
+  - first:
+      213: -7667917729490872610
+    second: JumpBlue_8
+  - first:
+      213: -5291857976431169645
+    second: JumpBlue_9
+  - first:
+      213: -1475463170780398033
+    second: JumpBlue_10
+  - first:
+      213: -5990099186153437085
+    second: JumpBlue_11
+  - first:
+      213: 8808825258938353338
+    second: JumpBlue_12
+  - first:
+      213: -8479937738536887855
+    second: JumpBlue_13
+  - first:
+      213: 6352848476694600973
+    second: JumpBlue_14
+  - first:
+      213: 4597900906728035308
+    second: JumpBlue_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JumpBlue_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 387
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b019c74d583f28341b72146375ef9244
+      internalID: 3361639565131478548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBlue_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 410
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34987e3ab6da5164fa68f24c8b744841
+      internalID: 2134846756596840574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBlue_2
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 3
+        width: 464
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9998676eb271748a8b6147366a08cb
+      internalID: -5710160148187321215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBlue_3
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 0
+        width: 459
+        height: 947
+      alignment: 9
+      pivot: {x: 0.58046293, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75975f598701d340bb8a25dc3ec6152
+      internalID: 5449651675103730291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBlue_4
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 0
+        width: 378
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00637c29afa85e8479af52d958293549
+      internalID: -3799704144942673456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBlue_5
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 0
+        width: 389
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee94b7b09acd384d9c06a302626c3a2
+      internalID: -7070710965020056204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBlue_6
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 0
+        width: 396
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02675b27fb55c1f41ab6ae32349462ae
+      internalID: -2150220538180255693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBlue_7
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 0
+        width: 327
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918ee5a5673f3974a93c603e243e749d
+      internalID: -3313996200654844868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBlue_8
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 0
+        width: 309
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5644d04b37a9541b385073bf5ff026
+      internalID: -7667917729490872610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBlue_9
+      rect:
+        serializedVersion: 2
+        x: 4790
+        y: 0
+        width: 316
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16691e5b85cae7f46b2657d5ae1d272b
+      internalID: -5291857976431169645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBlue_10
+      rect:
+        serializedVersion: 2
+        x: 5289
+        y: 0
+        width: 320
+        height: 945
+      alignment: 9
+      pivot: {x: 0.61541444, y: 0.49813887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9257556282d306c4ca73bc4bccf76d44
+      internalID: -1475463170780398033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBlue_11
+      rect:
+        serializedVersion: 2
+        x: 5788
+        y: 0
+        width: 398
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0eba45d045d8541b09bae8555a5d57
+      internalID: -5990099186153437085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBlue_12
+      rect:
+        serializedVersion: 2
+        x: 6313
+        y: 0
+        width: 459
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279461938a0073f4b81e65c64d0400fb
+      internalID: 8808825258938353338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBlue_13
+      rect:
+        serializedVersion: 2
+        x: 6907
+        y: 0
+        width: 401
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc60143c44a2be4d93e0abf9b238d0e
+      internalID: -8479937738536887855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBlue_14
+      rect:
+        serializedVersion: 2
+        x: 7438
+        y: 0
+        width: 406
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b8023db7aebb14fb9f9da839982c16
+      internalID: 6352848476694600973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBlue_15
+      rect:
+        serializedVersion: 2
+        x: 7973
+        y: 0
+        width: 380
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a772f9aedd2e23b4a9bade4d4c23cbdf
+      internalID: 4597900906728035308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

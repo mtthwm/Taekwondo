@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7447179111683825008
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7447179111683825014}
+  - component: {fileID: 7447179111683825009}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7447179111683825014
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7447179111683825008}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.8479886, y: 0.56557274, z: 70.77955}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7447179111683825009
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7447179111683825008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e46ef08daec013142b63fdcab188d9fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Jump
+    source: {fileID: 0}
+    clip: {fileID: 8300000, guid: 1a50c28a88df5e047a665eed42e53cc9, type: 3}
+    volume: 1
+  - name: Whistle
+    source: {fileID: 0}
+    clip: {fileID: 8300000, guid: 66ccfbf1a06f0314fa275314bde2af6e, type: 3}
+    volume: 1
+  - name: Clap
+    source: {fileID: 0}
+    clip: {fileID: 8300000, guid: 65df4feeea9485c43af4c954d37ac365, type: 3}
+    volume: 1
+  - name: Drumroll
+    source: {fileID: 0}
+    clip: {fileID: 8300000, guid: 9ee0118bb49dd30429c3683158c05e36, type: 3}
+    volume: 1
+  soundGroups:
+  - name: Woosh
+    sounds:
+    - name: Woosh1
+      source: {fileID: 0}
+      clip: {fileID: 8300000, guid: 769db5827757bd6479eb4b2acba1a3db, type: 3}
+      volume: 1
+    - name: Woosh2
+      source: {fileID: 0}
+      clip: {fileID: 8300000, guid: 2bacd3264e3518e438619a13c5877cfd, type: 3}
+      volume: 1
+    - name: Woosh3
+      source: {fileID: 0}
+      clip: {fileID: 8300000, guid: f827c5953065a3245a7b03e37a29e868, type: 3}
+      volume: 1
+  - name: Oof
+    sounds:
+    - name: Oof1
+      source: {fileID: 0}
+      clip: {fileID: 8300000, guid: 523efeed0f914d74bad2a51c6a6c645a, type: 3}
+      volume: 1
+    - name: Oof2
+      source: {fileID: 0}
+      clip: {fileID: 8300000, guid: 173a32ff16ab17c499364a5a2325c429, type: 3}
+      volume: 1
+    - name: Oof3
+      source: {fileID: 0}
+      clip: {fileID: 8300000, guid: 3e1effaa7e179bc40920da263650723b, type: 3}
+      volume: 1
+  songs:
+  - name: Song1
+    clip: {fileID: 8300000, guid: 28d418cde1b0c50478aa19946a8076b3, type: 3}
+    source: {fileID: 0}
+    volume: 1
+  - name: Song2
+    clip: {fileID: 8300000, guid: 6f7e2a671e5e97d4f8157a37135f50d7, type: 3}
+    source: {fileID: 0}
+    volume: 1
+  selectedBackgroundMusic: Song2

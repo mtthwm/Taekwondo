@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: ea5729e6b3a12a14cb2866bc7b332c4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5897003553002192290
+    second: CrouchRed_0
+  - first:
+      213: -8609895620416435285
+    second: CrouchRed_1
+  - first:
+      213: -3768642977815970943
+    second: CrouchRed_2
+  - first:
+      213: 1454395822660637596
+    second: CrouchRed_3
+  - first:
+      213: -2816272631670178582
+    second: CrouchRed_4
+  - first:
+      213: -436840767868325169
+    second: CrouchRed_5
+  - first:
+      213: -2902834611770848609
+    second: CrouchRed_6
+  - first:
+      213: -4061239945826096610
+    second: CrouchRed_7
+  - first:
+      213: -6864032536645371205
+    second: CrouchRed_8
+  - first:
+      213: 1348674639025537019
+    second: CrouchRed_9
+  - first:
+      213: -2205824109312318278
+    second: CrouchRed_10
+  - first:
+      213: 8554321937491930448
+    second: CrouchRed_11
+  - first:
+      213: 9186563411498208348
+    second: CrouchRed_12
+  - first:
+      213: -8143492825422198171
+    second: CrouchRed_13
+  - first:
+      213: 4183592885784864413
+    second: CrouchRed_14
+  - first:
+      213: -2716515097845242481
+    second: CrouchRed_15
+  - first:
+      213: -6333274178991817795
+    second: CrouchRed_16
+  - first:
+      213: 6294045617203653093
+    second: CrouchRed_17
+  - first:
+      213: -1290396106294866373
+    second: CrouchRed_18
+  - first:
+      213: 111010263385327857
+    second: CrouchRed_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrouchRed_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 390
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ff99503616afd49aaad865213184ca
+      internalID: 5897003553002192290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_1
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 375
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8e4b9f54b00574d8898a7b5a445355
+      internalID: -8609895620416435285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_2
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 0
+        width: 382
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d77ffea32f2d54fb1ffd5af4282225
+      internalID: -3768642977815970943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_3
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 0
+        width: 397
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc3a727e5b79fa429ec94615a5ee2f4
+      internalID: 1454395822660637596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_4
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 0
+        width: 405
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3129779472c1e68488ab92e6f391b8d7
+      internalID: -2816272631670178582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_5
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 0
+        width: 470
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ee32839cf6c7745b44ee96450b3a0a
+      internalID: -436840767868325169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_6
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 0
+        width: 460
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e30ee9626889db45885eb0851224bd2
+      internalID: -2902834611770848609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_7
+      rect:
+        serializedVersion: 2
+        x: 3897
+        y: 0
+        width: 500
+        height: 950
+      alignment: 9
+      pivot: {x: 0.52941895, y: 0.5696746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae0cab294b44e04ba778975397708f2
+      internalID: -4061239945826096610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_8
+      rect:
+        serializedVersion: 2
+        x: 4537
+        y: 0
+        width: 485
+        height: 950
+      alignment: 9
+      pivot: {x: 0.49241906, y: 0.5503205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31783fc4efe3784bac3658a35db2561
+      internalID: -6864032536645371205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_9
+      rect:
+        serializedVersion: 2
+        x: 5158
+        y: 0
+        width: 493
+        height: 950
+      alignment: 9
+      pivot: {x: 0.4925421, y: 0.6083827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6ed8f4928653642a1f74c94b681f0b
+      internalID: 1348674639025537019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_10
+      rect:
+        serializedVersion: 2
+        x: 5787
+        y: 0
+        width: 482
+        height: 950
+      alignment: 9
+      pivot: {x: 0.553408, y: 0.6199951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d4493527368494c9a04b58cd2a6acd
+      internalID: -2205824109312318278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_11
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 0
+        width: 500
+        height: 946
+      alignment: 9
+      pivot: {x: 0.53677636, y: 0.6282769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d862737dbdee841b96901955a05ee4
+      internalID: 8554321937491930448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_12
+      rect:
+        serializedVersion: 2
+        x: 7015
+        y: 0
+        width: 519
+        height: 946
+      alignment: 9
+      pivot: {x: 0.52834475, y: 0.6243897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48df93d00380ff4a89031ab7e4486a0
+      internalID: 9186563411498208348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_13
+      rect:
+        serializedVersion: 2
+        x: 7666
+        y: 0
+        width: 467
+        height: 939
+      alignment: 9
+      pivot: {x: 0.54724723, y: 0.6018201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9731d52cb7621db4091413d5ea136213
+      internalID: -8143492825422198171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_14
+      rect:
+        serializedVersion: 2
+        x: 8255
+        y: 0
+        width: 485
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb5de30cc71fab4bb8a389261e4a2ca
+      internalID: 4183592885784864413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_15
+      rect:
+        serializedVersion: 2
+        x: 8887
+        y: 0
+        width: 405
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ae0cfcfe663694c8e34350ed45f205
+      internalID: -2716515097845242481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_16
+      rect:
+        serializedVersion: 2
+        x: 9424
+        y: 0
+        width: 419
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f404b36c57dfd64cb7632d9b5371f5d
+      internalID: -6333274178991817795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_17
+      rect:
+        serializedVersion: 2
+        x: 9983
+        y: 0
+        width: 386
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13984c148aea59b49a5bb93f6d56653c
+      internalID: 6294045617203653093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_18
+      rect:
+        serializedVersion: 2
+        x: 10494
+        y: 0
+        width: 401
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0f868a5bf5e584cbf2439249f019bb
+      internalID: -1290396106294866373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchRed_19
+      rect:
+        serializedVersion: 2
+        x: 11031
+        y: 0
+        width: 390
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e52fe00cd081848a99ade3adeb69d6
+      internalID: 111010263385327857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

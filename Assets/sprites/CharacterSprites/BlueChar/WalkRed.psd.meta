@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: 3ec6e72f107c279469c9620f79408995
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7280710786876599786
+    second: WalkRed_0
+  - first:
+      213: 4775823971915927815
+    second: WalkRed_1
+  - first:
+      213: -9164735598820459494
+    second: WalkRed_2
+  - first:
+      213: -8111869876948363689
+    second: WalkRed_3
+  - first:
+      213: -196605599320524473
+    second: WalkRed_4
+  - first:
+      213: 8177571927282549069
+    second: WalkRed_5
+  - first:
+      213: -6229725503977322015
+    second: WalkRed_6
+  - first:
+      213: 52151810175939440
+    second: WalkRed_7
+  - first:
+      213: -4848658102461066608
+    second: WalkRed_8
+  - first:
+      213: 1462786892638704984
+    second: WalkRed_9
+  - first:
+      213: 7531032438087288848
+    second: WalkRed_10
+  - first:
+      213: -914140019119171123
+    second: WalkRed_11
+  - first:
+      213: -6901330086498799788
+    second: WalkRed_12
+  - first:
+      213: -1103079032673663128
+    second: WalkRed_13
+  - first:
+      213: 5557877470744945675
+    second: WalkRed_14
+  - first:
+      213: 227143183304457545
+    second: WalkRed_15
+  - first:
+      213: 6102253514700128908
+    second: WalkRed_16
+  - first:
+      213: -7531030032893208939
+    second: WalkRed_17
+  - first:
+      213: -5574868385296587391
+    second: WalkRed_18
+  - first:
+      213: -1473232538687972237
+    second: WalkRed_19
+  - first:
+      213: 7954501303312035613
+    second: WalkRed_20
+  - first:
+      213: 3120093190103059847
+    second: WalkRed_21
+  - first:
+      213: 7935516326533398021
+    second: WalkRed_22
+  - first:
+      213: 9199532290473236921
+    second: WalkRed_23
+  - first:
+      213: -3132523032311288165
+    second: WalkRed_24
+  - first:
+      213: 4423096251553626121
+    second: WalkRed_25
+  - first:
+      213: -8070150977201118760
+    second: WalkRed_26
+  - first:
+      213: 4927247948492416801
+    second: WalkRed_27
+  - first:
+      213: -549173326518717072
+    second: WalkRed_28
+  - first:
+      213: -7478630456553382025
+    second: WalkRed_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WalkRed_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 17
+        width: 169
+        height: 933
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42ce514a7c57c34fbeb4cb8503a5b84
+      internalID: 7280710786876599786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 17
+        width: 170
+        height: 933
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ba1c83c7d74ec4fa8b95ae2f96f639
+      internalID: 4775823971915927815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 12
+        width: 168
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d23ec02a8424144b84ea2f82b9b4e07
+      internalID: -9164735598820459494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_3
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1
+        width: 287
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d65a669bb09f44a815190c36f026a6
+      internalID: -8111869876948363689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_4
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 294
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843f8f7e2ad952848a3ec7d5916399c2
+      internalID: -196605599320524473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_5
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 0
+        width: 294
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5f126120a2ee14e8d94b49e2916be8
+      internalID: 8177571927282549069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_6
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 455
+        height: 950
+      alignment: 9
+      pivot: {x: 0.5513017, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725fbaddfc574ec429d965d8a4b9222c
+      internalID: -6229725503977322015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_7
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 0
+        width: 450
+        height: 950
+      alignment: 9
+      pivot: {x: 0.572621, y: 0.50245714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26181b27adef44244b192f4b383414e1
+      internalID: 52151810175939440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_8
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 0
+        width: 439
+        height: 950
+      alignment: 9
+      pivot: {x: 0.5691229, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452ba023408558248859a0fc9258e612
+      internalID: -4848658102461066608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_9
+      rect:
+        serializedVersion: 2
+        x: 4129
+        y: 0
+        width: 722
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb7a10420fe0174bbd83f1bf6804541
+      internalID: 1462786892638704984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_10
+      rect:
+        serializedVersion: 2
+        x: 5009
+        y: 0
+        width: 719
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfb23ebc50882f488500b07ec4959d2
+      internalID: 7531032438087288848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_11
+      rect:
+        serializedVersion: 2
+        x: 5887
+        y: 0
+        width: 721
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba648b0e80bbbb4ab3653b7b489d355
+      internalID: -914140019119171123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_12
+      rect:
+        serializedVersion: 2
+        x: 6767
+        y: 0
+        width: 437
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933742ee69f820843a84a1b5ce9e747f
+      internalID: -6901330086498799788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_13
+      rect:
+        serializedVersion: 2
+        x: 7365
+        y: 0
+        width: 443
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b641ad4e58e9e2540b814cccc6e3ab49
+      internalID: -1103079032673663128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_14
+      rect:
+        serializedVersion: 2
+        x: 7967
+        y: 0
+        width: 441
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db86753359fbb5f4a972e234afb8df0e
+      internalID: 5557877470744945675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_15
+      rect:
+        serializedVersion: 2
+        x: 8560
+        y: 0
+        width: 179
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecbbf44b821d084d822084a7f9f3f83
+      internalID: 227143183304457545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_16
+      rect:
+        serializedVersion: 2
+        x: 8877
+        y: 0
+        width: 187
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6e91b46484acb419e4ffb3a5f8cc8a
+      internalID: 6102253514700128908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_17
+      rect:
+        serializedVersion: 2
+        x: 9197
+        y: 0
+        width: 182
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00615e0c539f4ae4fbe6231c486c204c
+      internalID: -7531030032893208939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_18
+      rect:
+        serializedVersion: 2
+        x: 9528
+        y: 0
+        width: 456
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1062fc5bed7317048807ad32b81a4f18
+      internalID: -5574868385296587391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_19
+      rect:
+        serializedVersion: 2
+        x: 10140
+        y: 0
+        width: 460
+        height: 946
+      alignment: 9
+      pivot: {x: 0.6065621, y: 0.49753252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90b9734f8a2c4249a58a6c06eb6a4ca
+      internalID: -1473232538687972237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_20
+      rect:
+        serializedVersion: 2
+        x: 10763
+        y: 0
+        width: 460
+        height: 950
+      alignment: 9
+      pivot: {x: 0.5710407, y: 0.49508584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6b75e744b09514f8a22a991e528d7b
+      internalID: 7954501303312035613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_21
+      rect:
+        serializedVersion: 2
+        x: 11389
+        y: 0
+        width: 719
+        height: 950
+      alignment: 9
+      pivot: {x: 0.52597195, y: 0.49262875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabe2791c0c1afe4da91cae2eb283eac
+      internalID: 3120093190103059847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_22
+      rect:
+        serializedVersion: 2
+        x: 12260
+        y: 0
+        width: 730
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01baaa4991f32043bde3ffed4b4b908
+      internalID: 7935516326533398021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_23
+      rect:
+        serializedVersion: 2
+        x: 13137
+        y: 0
+        width: 740
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c21fd217e7b754fbd85945ca2f2380
+      internalID: 9199532290473236921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_24
+      rect:
+        serializedVersion: 2
+        x: 14038
+        y: 0
+        width: 717
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2125a8f4fe9a4458b3c87754fd57ba
+      internalID: -3132523032311288165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_25
+      rect:
+        serializedVersion: 2
+        x: 14907
+        y: 0
+        width: 735
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe2020a0de629842a515be6d917277f
+      internalID: 4423096251553626121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_26
+      rect:
+        serializedVersion: 2
+        x: 15791
+        y: 0
+        width: 728
+        height: 950
+      alignment: 9
+      pivot: {x: 0.52565086, y: 0.49508584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9422ccea09043c344862e4343b5e224f
+      internalID: -8070150977201118760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_27
+      rect:
+        serializedVersion: 2
+        x: 16678
+        y: 0
+        width: 486
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f57aae5633968f428519d90feac93f7
+      internalID: 4927247948492416801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_28
+      rect:
+        serializedVersion: 2
+        x: 17315
+        y: 0
+        width: 493
+        height: 950
+      alignment: 9
+      pivot: {x: 0.5946929, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8299bd48e78c4534db33b8fc25834722
+      internalID: -549173326518717072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRed_29
+      rect:
+        serializedVersion: 2
+        x: 17962
+        y: 0
+        width: 490
+        height: 950
+      alignment: 9
+      pivot: {x: 0.5762197, y: 0.49754292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cca08fa990ad3546878cbdc74dffacd
+      internalID: -7478630456553382025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

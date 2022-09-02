@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 0f3ade2214f6c4f4dbc9a099baa502bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -868403028447199061
+    second: HighKickBlue_0
+  - first:
+      213: 2027362804097551864
+    second: HighKickBlue_1
+  - first:
+      213: -8693803403032041169
+    second: HighKickBlue_2
+  - first:
+      213: -291313733462758017
+    second: HighKickBlue_3
+  - first:
+      213: -823642066442242781
+    second: HighKickBlue_4
+  - first:
+      213: -6027156787515442716
+    second: HighKickBlue_5
+  - first:
+      213: -3159786982250422328
+    second: HighKickBlue_6
+  - first:
+      213: -3082852203634699899
+    second: HighKickBlue_7
+  - first:
+      213: -7619269667331341460
+    second: HighKickBlue_8
+  - first:
+      213: 932591517562026493
+    second: HighKickBlue_9
+  - first:
+      213: 2385661856179255067
+    second: HighKickBlue_10
+  - first:
+      213: -2305184758624017923
+    second: HighKickBlue_11
+  - first:
+      213: 8659509259376008156
+    second: HighKickBlue_12
+  - first:
+      213: -4906438174243430408
+    second: HighKickBlue_13
+  - first:
+      213: 8677141708100284608
+    second: HighKickBlue_14
+  - first:
+      213: 1154458000397306310
+    second: HighKickBlue_15
+  - first:
+      213: 3820368076769999947
+    second: HighKickBlue_16
+  - first:
+      213: 6271432202401152636
+    second: HighKickBlue_17
+  - first:
+      213: -4250404744405781700
+    second: HighKickBlue_18
+  - first:
+      213: 5478434023676837535
+    second: HighKickBlue_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HighKickBlue_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 378
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee715b817b5c643458a036ac3ac8ea86
+      internalID: -868403028447199061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 0
+        width: 383
+        height: 943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46fe4c91cb628f4c84cd822e0f34143
+      internalID: 2027362804097551864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_2
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 0
+        width: 396
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a0f3227d453cb429a8bb8874f19cac
+      internalID: -8693803403032041169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_3
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 0
+        width: 333
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cff4153584a02b4598ce9b725c324a0
+      internalID: -291313733462758017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_4
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 0
+        width: 339
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97541988375a5fa44aef7708a4790764
+      internalID: -823642066442242781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_5
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 0
+        width: 321
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6109c0d88e9dda3479b7b594565ddf6b
+      internalID: -6027156787515442716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_6
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 0
+        width: 310
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0231c64de6932a24cbd5a6b4225b32ae
+      internalID: -3159786982250422328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_7
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 0
+        width: 394
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6afd93817a3dc54e97d84557c84e1be
+      internalID: -3082852203634699899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_8
+      rect:
+        serializedVersion: 2
+        x: 4057
+        y: 0
+        width: 651
+        height: 946
+      alignment: 9
+      pivot: {x: 0.718435, y: 0.509698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eba5bc09ec02a2419c7dcc3affbb58d
+      internalID: -7619269667331341460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_9
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 0
+        width: 654
+        height: 950
+      alignment: 9
+      pivot: {x: 0.72795415, y: 0.5024143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314d0b90287122b4a8674af8f5c03b08
+      internalID: 932591517562026493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_10
+      rect:
+        serializedVersion: 2
+        x: 5724
+        y: 0
+        width: 661
+        height: 950
+      alignment: 9
+      pivot: {x: 0.69431156, y: 0.4975857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ce70d626303f840ba309f0ef60d21d
+      internalID: 2385661856179255067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_11
+      rect:
+        serializedVersion: 2
+        x: 6538
+        y: 0
+        width: 647
+        height: 950
+      alignment: 9
+      pivot: {x: 0.6807916, y: 0.4975857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c579634b10f2b48938c749c83c2d51
+      internalID: -2305184758624017923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_12
+      rect:
+        serializedVersion: 2
+        x: 7336
+        y: 0
+        width: 672
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f506d58f384b68644ba139acbbf577f5
+      internalID: 8659509259376008156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_13
+      rect:
+        serializedVersion: 2
+        x: 8162
+        y: 0
+        width: 668
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98062911f2a32eb479fea39f54ca58e8
+      internalID: -4906438174243430408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_14
+      rect:
+        serializedVersion: 2
+        x: 8985
+        y: 0
+        width: 668
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3a2d72b2f2ded4dbb9c27e4e314693
+      internalID: 8677141708100284608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_15
+      rect:
+        serializedVersion: 2
+        x: 9809
+        y: 0
+        width: 660
+        height: 950
+      alignment: 9
+      pivot: {x: 0.61211234, y: 0.495132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0db3a647759024fae3527a46ba8c9a
+      internalID: 1154458000397306310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_16
+      rect:
+        serializedVersion: 2
+        x: 10623
+        y: 0
+        width: 668
+        height: 950
+      alignment: 9
+      pivot: {x: 0.6419246, y: 0.502434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bc501286671724f8a5e682b95abc18
+      internalID: 3820368076769999947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_17
+      rect:
+        serializedVersion: 2
+        x: 11445
+        y: 0
+        width: 393
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f6804cffdf9f241bda2c6055d6ba0e
+      internalID: 6271432202401152636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_18
+      rect:
+        serializedVersion: 2
+        x: 11984
+        y: 0
+        width: 335
+        height: 950
+      alignment: 9
+      pivot: {x: 0.541415, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a1f5e13d3597046b9eb013b89fd129
+      internalID: -4250404744405781700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKickBlue_19
+      rect:
+        serializedVersion: 2
+        x: 12465
+        y: 0
+        width: 377
+        height: 950
+      alignment: 9
+      pivot: {x: 0.604272, y: 0.497566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4c0ef289aacd947a3ae223cefd3368
+      internalID: 5478434023676837535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

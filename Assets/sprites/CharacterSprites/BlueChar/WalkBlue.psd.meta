@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: ed64b9a956178114295ac3540135e003
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3035810306065516939
+    second: WalkBlue_0
+  - first:
+      213: -7011117713640213507
+    second: WalkBlue_1
+  - first:
+      213: -7269891024116610824
+    second: WalkBlue_2
+  - first:
+      213: -382478068475743800
+    second: WalkBlue_3
+  - first:
+      213: -3374847838154927791
+    second: WalkBlue_4
+  - first:
+      213: 5206658449417909165
+    second: WalkBlue_5
+  - first:
+      213: 7603480711714109762
+    second: WalkBlue_6
+  - first:
+      213: 1020340725365545502
+    second: WalkBlue_7
+  - first:
+      213: 5066279186282703135
+    second: WalkBlue_8
+  - first:
+      213: 6939813611138247919
+    second: WalkBlue_9
+  - first:
+      213: -1864575636230717908
+    second: WalkBlue_10
+  - first:
+      213: 7112176782435252811
+    second: WalkBlue_11
+  - first:
+      213: -3960092504806277994
+    second: WalkBlue_12
+  - first:
+      213: -9209637459113539487
+    second: WalkBlue_13
+  - first:
+      213: -6699581142469562964
+    second: WalkBlue_14
+  - first:
+      213: 3980237500206489827
+    second: WalkBlue_15
+  - first:
+      213: 2234466095762737676
+    second: WalkBlue_16
+  - first:
+      213: 6776817311738427333
+    second: WalkBlue_17
+  - first:
+      213: 7006958306401551642
+    second: WalkBlue_18
+  - first:
+      213: 2404166552528769793
+    second: WalkBlue_19
+  - first:
+      213: -7395409851198266017
+    second: WalkBlue_20
+  - first:
+      213: 2799301027511523054
+    second: WalkBlue_21
+  - first:
+      213: -6875076677982697938
+    second: WalkBlue_22
+  - first:
+      213: 2882355423086559594
+    second: WalkBlue_23
+  - first:
+      213: -7642707360652803477
+    second: WalkBlue_24
+  - first:
+      213: 3418687002717837075
+    second: WalkBlue_25
+  - first:
+      213: 7933096690645478719
+    second: WalkBlue_26
+  - first:
+      213: -489198803267650099
+    second: WalkBlue_27
+  - first:
+      213: -688228588809025058
+    second: WalkBlue_28
+  - first:
+      213: 6440336402160688929
+    second: WalkBlue_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WalkBlue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 176
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8661cc36483d81741b230e7aa2593e60
+      internalID: 3035810306065516939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 188
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5946c82b208b0a347b643c0ac2a1ddb4
+      internalID: -7011117713640213507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_2
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 191
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ae5dfe60b20344182a38cc3ec448fb
+      internalID: -7269891024116610824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_3
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 0
+        width: 278
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c88d918b8bd08140b21c422c128687b
+      internalID: -382478068475743800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_4
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 289
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd31a7b0096cbdc4bbf50fc997ec5408
+      internalID: -3374847838154927791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_5
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 0
+        width: 283
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8e6e5d5cb3e8447960476de9d11565
+      internalID: 5206658449417909165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_6
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 0
+        width: 453
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76486ac80621f84b8db2761832d89d9
+      internalID: 7603480711714109762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_7
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 0
+        width: 444
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0f9dea15a08754fa40275912e126e2
+      internalID: 1020340725365545502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_8
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 0
+        width: 442
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401ff66cd90ff054abd4ccada5f4072b
+      internalID: 5066279186282703135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_9
+      rect:
+        serializedVersion: 2
+        x: 4132
+        y: 0
+        width: 725
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5cd65c0ff59f449b174aa2f37d4e9c
+      internalID: 6939813611138247919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_10
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 0
+        width: 718
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae4b505c6184604f98c8004ffaa1dc2
+      internalID: -1864575636230717908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_11
+      rect:
+        serializedVersion: 2
+        x: 5893
+        y: 0
+        width: 717
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac9fbc17c830f44f890f762d3c696ad
+      internalID: 7112176782435252811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_12
+      rect:
+        serializedVersion: 2
+        x: 6776
+        y: 0
+        width: 433
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2407075c73489a646a61f8c4885dad3d
+      internalID: -3960092504806277994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_13
+      rect:
+        serializedVersion: 2
+        x: 7364
+        y: 0
+        width: 446
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe2efd0f5bd3cb47829d3eeb86f6023
+      internalID: -9209637459113539487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_14
+      rect:
+        serializedVersion: 2
+        x: 7967
+        y: 0
+        width: 442
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a3156d8d89d9f40bfa8309faf717ee
+      internalID: -6699581142469562964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_15
+      rect:
+        serializedVersion: 2
+        x: 8562
+        y: 0
+        width: 180
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcb64e7314e6194b9328d4238fb8971
+      internalID: 3980237500206489827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_16
+      rect:
+        serializedVersion: 2
+        x: 8882
+        y: 0
+        width: 180
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2810c58df9f2b45b798508f56587fa
+      internalID: 2234466095762737676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_17
+      rect:
+        serializedVersion: 2
+        x: 9199
+        y: 0
+        width: 181
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8392bec6f0838ee4ca85edbd69b46a98
+      internalID: 6776817311738427333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_18
+      rect:
+        serializedVersion: 2
+        x: 9530
+        y: 0
+        width: 455
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc0f5fac43a8574389e2d462f8e0b4b
+      internalID: 7006958306401551642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_19
+      rect:
+        serializedVersion: 2
+        x: 10142
+        y: 0
+        width: 463
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f243ad8edd923408d88316c98d28ba
+      internalID: 2404166552528769793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_20
+      rect:
+        serializedVersion: 2
+        x: 10755
+        y: 0
+        width: 468
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dd8dc1c3641d64da0f463c66c052f4
+      internalID: -7395409851198266017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_21
+      rect:
+        serializedVersion: 2
+        x: 11380
+        y: 0
+        width: 729
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2eaef7725549342a7a51711ae12fe3
+      internalID: 2799301027511523054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_22
+      rect:
+        serializedVersion: 2
+        x: 12264
+        y: 0
+        width: 725
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf8e0d368458db4d865475c5d8b2e51
+      internalID: -6875076677982697938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_23
+      rect:
+        serializedVersion: 2
+        x: 13143
+        y: 0
+        width: 729
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8920c61ceff0fd449e17282d912c004
+      internalID: 2882355423086559594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_24
+      rect:
+        serializedVersion: 2
+        x: 14024
+        y: 0
+        width: 728
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bc7bd6be42cc745b96e49fe122b46f
+      internalID: -7642707360652803477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_25
+      rect:
+        serializedVersion: 2
+        x: 14914
+        y: 0
+        width: 722
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0ec4194da9e8942b0a4c55909d43f2
+      internalID: 3418687002717837075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_26
+      rect:
+        serializedVersion: 2
+        x: 15793
+        y: 0
+        width: 722
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf5bc846ce03ad4dae351eaab3bb7b3
+      internalID: 7933096690645478719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_27
+      rect:
+        serializedVersion: 2
+        x: 16684
+        y: 0
+        width: 477
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ec7c884c027f64b955c39046606ac3
+      internalID: -489198803267650099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_28
+      rect:
+        serializedVersion: 2
+        x: 17321
+        y: 0
+        width: 479
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9f524adaa07ff449875a765d7f22d2
+      internalID: -688228588809025058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBlue_29
+      rect:
+        serializedVersion: 2
+        x: 17961
+        y: 0
+        width: 481
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e53c5c438737c84faf7f070802e419d
+      internalID: 6440336402160688929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
